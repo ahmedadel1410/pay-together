@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98952477567",
+    "project_id": "pay-together-e6f9d",
+    "storage_bucket": "pay-together-e6f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98952477567:android:573e0fa4a059918813b84a",
+        "android_client_info": {
+          "package_name": "com.example.pay_together"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98952477567-un4391nr0gh26lrvqc2j5ipa3ge3maf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pay_together",
+            "certificate_hash": "0391c9938171bbff62265af47e37e98ca103e5f0"
+          }
+        },
+        {
+          "client_id": "98952477567-3cthqt9as764ia90782fkv6btvjue6s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQny0u38yiqZuc3U67v2FnMKH29n1uqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98952477567-3cthqt9as764ia90782fkv6btvjue6s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
